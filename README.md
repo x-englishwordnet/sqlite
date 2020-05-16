@@ -4,7 +4,14 @@
 
 # X English WordNet in Sqlite form
 
-This provides a zipped SQLITE DB file of the Extended English WordNet in Sqlite format. See [SQLUNET](http://sqlunet.sourceforge.net/) for more details.
+This provides a zipped database file of the Extended English WordNet in **Sqlite**  DB format.
 
-Downloadable [here](https://x-englishwordnet.github.io/sqlite/xewnXX-sqlite.zip) :
-https://x-englishwordnet.github.io/sqlite/xewnXX-sqlite.zip
+Download [xewnXX-sqlite.zip](https://x-englishwordnet.github.io/sqlite/xewnXX-sqlite.zip).
+
+Database design document [here](xewn.pdf) that contains schema in UML, SQL schema, and finally the working model in MySql WorkBench format.
+
+Sample queries to be found [here](xewn-queries.pdf).
+
+Some table statistics to be found [here](stats/stats-XX.html).
+
+See [SQLUNET](http://sqlunet.sourceforge.net/) for global context.
