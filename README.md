@@ -16,6 +16,6 @@ Database design document [here](xewn.pdf) that contains schema in UML, SQL schem
 
 Sample queries to be found [here](xewn-queries.pdf).
 
-Some table statistics to be found [here](https://github.io/x-englishwordnet/sqlite/stats/stats-XX.html).
+Some table statistics to be found [here](https://x-englishwordnet.github.io/sqlite/stats/stats-XX.html).
 
 See [SQLUNET](http://sqlunet.sourceforge.net/) for global context.
