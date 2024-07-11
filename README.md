@@ -10,9 +10,9 @@
 
 This provides a zipped database file of the Open English Wordnet in **Sqlite**  DB format.
 
-Download [oewn-2022-sqlite.zip](https://x-englishwordnet.github.io/sqlite/oewn-2022-sqlite-2.0.0.zip).
+Download [oewn-2024-sqlite.zip](https://x-englishwordnet.github.io/sqlite/oewn-2024-sqlite-2.1.1.zip).
 
-Download ready-to-use [oewn-2022-sqlitedb.zip](https://x-englishwordnet.github.io/sqlite/oewn-2022-sqlitedb-2.0.0.zip).
+Download ready-to-use [oewn-2024-sqlitedb.zip](https://x-englishwordnet.github.io/sqlite/oewn-2024-sqlitedb-2.1.1.zip).
 
 Database design document [here](oewn.pdf) that contains schema in UML, SQL schema.
 
